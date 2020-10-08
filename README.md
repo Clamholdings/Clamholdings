@@ -1,1 +1,0 @@
-CLAM's vision is to analyze and integrate mainstream blockchain assembly language, establish a new type of smart contract universal library, and allow developers to easily deploy cross-chain asset transaction portfolios, maintain sovereignty and quickly communicate with other blockchains, making it a variety of scenarios The best choice.
